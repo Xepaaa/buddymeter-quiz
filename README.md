@@ -1,9 +1,10 @@
 # buddymeter-quiz
 .
 
-wrt. notes taken prior to starting this project >>>
+# Project Notes
 
-# So we want to create a Quiz :D
+wrt. notes taken prior to starting this project >>>
+So we want to create a Quiz :D
 
 '''A Quiz which questions the user about me
 
@@ -38,18 +39,18 @@ with for the initial idea which was "Quiddle".
 
 Regarding the code:
 
-    I had only one issue in my final run which was that i kept getting an error if the wrong answer was given for Q3,
-    now to go into details, the answer in the dict was initially 5 as an int, to accomodate this i enclosed the input request for Q3 with an "int".
-    An error however appeared when a wrong number was put in and the only way i could think of fixing it was to change the 5 in the dict to a str
-    and remove the int(input) method.
+I had only one issue in my final run which was that i kept getting an error if the wrong answer was given for Q3,
+now to go into details, the answer in the dict was initially 5 as an int, to accomodate this i enclosed the input request for Q3 with an "int".
+An error however appeared when a wrong number was put in and the only way i could think of fixing it was to change the 5 in the dict to a str
+and remove the int(input) method.
 
-    Additionally, i only used the name of the player in the final assesment of their score at the end of quiz, but just added those into the familiarism() function
-    to make the introduction more personal.
+Additionally, i only used the name of the player in the final assesment of their score at the end of quiz, but just added those into the familiarism() function
+to make the introduction more personal.
 
-    Furthermore, for players that were unsuccefull in their attempt to pass, i included how many points they would have required in order to pass. Initially tried
-    to achieve this using this .format() method but quickly realised the f string literal method is the best.
+Furthermore, for players that were unsuccefull in their attempt to pass, i included how many points they would have required in order to pass. Initially tried
+to achieve this using this .format() method but quickly realised the f string literal method is the best.
 
-    Lastly, i incorporated plenty of the time.sleep() method to just slow the game down between questions and not make it feel rushed.
+Lastly, i incorporated plenty of the time.sleep() method to just slow the game down between questions and not make it feel rushed.
 
 Overall, as my second project i am pretty darn satified with :)
 '''
