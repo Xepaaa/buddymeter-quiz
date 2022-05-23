@@ -1,9 +1,9 @@
 # buddymeter-quiz
-.
+Have a crack at this Quiz! if you dont know me you will be met with clues :)
 
 wrt. notes taken prior to starting this project >>>
 
-# So we want to create a Quiz :)
+# So we want to create a Quiz :D
 
 '''A Quiz which questions the user about me
 
