@@ -6,7 +6,7 @@
 wrt. notes taken prior to starting this project >>>
 So we want to create a Quiz :D
 
-'''A Quiz which questions the user about me
+A Quiz which questions the user about me
 
 	1. Asks how well they know Danish
 	2. Series of questions surrounding his personality
