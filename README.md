@@ -23,11 +23,10 @@ So we want to create a Quiz :D
 	9. Or just show the list of answers in the end
 	10. include rationale in final upload
 	11. Add a result loader?
-'''
 
 wrt. thoughts and notes after the project had been completed >>>
 
-'''
+
 So in summary, this quiz can two pathways, one, for the player to answer questions without clues and another with.
 I think i achieved what i had envisioned in this project which was to create a quiz where i could implement attempts
 before the player would move onto the next question, losing their chance to earn points.
@@ -53,4 +52,3 @@ to achieve this using this .format() method but quickly realised the f string li
 Lastly, i incorporated plenty of the time.sleep() method to just slow the game down between questions and not make it feel rushed.
 
 Overall, as my second project i am pretty darn satified with :)
-'''
